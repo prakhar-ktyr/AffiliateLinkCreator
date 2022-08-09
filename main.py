@@ -1,4 +1,4 @@
-#This python code converts any Amazon India link to an affiliate link and also shortens it.
+#This python code converts any Amazon India website(amazon.in) link to an affiliate link and also shortens it.
 #Library used: pyshorteners
 
 
